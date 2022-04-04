@@ -1,0 +1,2 @@
+# palindromNumbers
+palindrom sayilar
